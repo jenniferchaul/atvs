@@ -1,4 +1,4 @@
-# ATVS71 – Site vitrine
+# ATVS71 
 
 Ce dépôt contient le code source du site internet de **ATVS71**, entreprise spécialisée dans la **location et l’installation de matériel de sonorisation et d’éclairage** pour événements privés et professionnels : mariages, concerts, pièces de théâtre, soirées d’entreprise, etc.
 
